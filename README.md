@@ -21,6 +21,6 @@
 
 ## Execution
 
-Add images to resize the folder `Archivo de Imagenes`
+Add images to resize to the folder `Archivo de Imagenes`
 
 Run `python3 main.py`
